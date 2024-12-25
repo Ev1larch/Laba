@@ -1,0 +1,14 @@
+B:\Learning c#\Laba6\bin\Debug\Laba6.exe.config
+B:\Learning c#\Laba6\bin\Debug\Laba6.exe
+B:\Learning c#\Laba6\bin\Debug\Laba6.pdb
+B:\Learning c#\Laba6\obj\Debug\Laba6.csproj.AssemblyReference.cache
+B:\Learning c#\Laba6\obj\Debug\Laba6.Form1.resources
+B:\Learning c#\Laba6\obj\Debug\Laba6.Properties.Resources.resources
+B:\Learning c#\Laba6\obj\Debug\Laba6.SnakeGameForm.resources
+B:\Learning c#\Laba6\obj\Debug\Laba6.csproj.GenerateResource.cache
+B:\Learning c#\Laba6\obj\Debug\Laba6.csproj.CoreCompileInputs.cache
+B:\Learning c#\Laba6\obj\Debug\Laba6.exe
+B:\Learning c#\Laba6\obj\Debug\Laba6.pdb
+B:\Learning c#\Laba6\obj\Debug\Laba6.ArraysForm.resources
+B:\Learning c#\Laba6\obj\Debug\Laba6.GuessingGameForm.resources
+B:\Learning c#\Laba6\obj\Debug\Laba6.InfoForm.resources
